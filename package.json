@@ -1,0 +1,29 @@
+{
+  "name": "shopify-second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwolthapa/shopify-second.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujjwolthapa/shopify-second/issues"
+  },
+  "homepage": "https://github.com/ujjwolthapa/shopify-second#readme",
+  "devDependencies": {
+    "@types/gulp": "^4.0.9",
+    "@types/gulp-sass": "^5.0.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "@shopify/themekit": "^1.1.9",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.38.0"
+  }
+}

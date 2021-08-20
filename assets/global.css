@@ -1,0 +1,8 @@
+header,
+.site-header,
+.site-header__mobile-nav,
+body {
+  background-color: #f5740a;
+  /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #f5740a, #9e9e9e);
+}

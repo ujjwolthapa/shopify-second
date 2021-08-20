@@ -1,0 +1,9 @@
+$color-white: rgb(245, 116, 10);
+$color-white1:rgb(158, 158, 158);
+header,
+.site-header,
+.site-header__mobile-nav,
+body{
+    background-color:$color-white; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right,$color-white , $color-white1);
+}
